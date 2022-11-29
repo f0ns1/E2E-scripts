@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: f0ns1
+Build-Jdk: 17.0.4.1
+Implementation-Title: 1.0
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: Rocketchat_crypto
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/1.0
+Created-By: Maven Integration for Eclipse
+
